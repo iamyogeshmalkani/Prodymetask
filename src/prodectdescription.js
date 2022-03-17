@@ -16,9 +16,9 @@ export default function Description() {
             <div style={{display: "flex",flexDirection: "row"}}>
             <p>Quantity</p>
             <p style={{paddingLeft: "0.5rem"}}>
-            <AddIcon style={{color: "#F07732",hieght: "20px"}}/>
+            <AddIcon style={{color: "#F07732",fontSize: "1.3rem"}}/>
             <span style={{position: "relative",bottom: "5px",backgroundColor: "white",paddingLeft: "0.5rem",paddingRight: "0.5rem"}}>1</span>
-            <RemoveIcon style={{color: "#F07732"}}/>
+            <RemoveIcon style={{color: "#F07732",fontSize: "1.3rem"}}/>
             
             </p>
             
